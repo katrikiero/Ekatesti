@@ -1,0 +1,4 @@
+ekatestienv/
+.vscode/
+.pytest_cache/
+.DS_Store
